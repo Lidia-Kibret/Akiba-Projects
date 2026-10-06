@@ -25,17 +25,18 @@
 
 | Task | File |
 |---|---|
-| Personal Introduction | `Personal-information.py` |
-| Student ID Card | `Student-id-card.py` |
-| Rectangle Workshop | `Rectangle-Calculator.py` |
-| Temperature Station | `Temperature-Station.py` |
-| Ethiopian Shopping Receipt | `Ethiopia-Shopping-Receipt.py` |
-| Employee Payslip | `Employee-Payslip.py` |
-| Travel Planner | `Travel-Planner.py` |
-| Exam Result Report | `Exam-Result-Report.py` |
-| Currency Exchange Desk | `Currency-Exchange-Desk.py` |
-| BMI Health Information | `BMI-Health-Information.py` |
-| Mini Project — Student Profile System | `Student-Profile-System.py` |
+| Personal Introduction | [Personal-information.py](./Personal-information.py) |
+| Student ID Card | [Student-id-card.py](./Student-id-card.py) |
+| Rectangle Workshop | [Rectangle-Calculator.py](./Rectangle-Calculator.py) |
+| Temperature Station | [Temperature-Station.py](./Temperature-Station.py) |
+| Ethiopian Shopping Receipt | [Ethiopia-Shopping-Receipt.py](./Ethiopia-Shopping-Receipt.py) |
+| Employee Payslip | [Employee-Payslip.py](./Employee-Payslip.py) |
+| Travel Planner | [Travel-Planner.py](./Travel-Planner.py) |
+| Exam Result Report | [Exam-Result-Report.py](./Exam-Result-Report.py) |
+| Currency Exchange Desk | [Currency-Exchange-Desk.py](./Currency-Exchange-Desk.py) |
+| BMI Health Information | [BMI-Health-Information.py](./BMI-Health-Information.py) |
+| Mini Project — Student Profile System | [Student-Profile-System.py](./Student-Profile-System.py) |
+
 
 ## What I Learned
 
@@ -52,7 +53,7 @@ git add
 git commit
 git push
 git status
-
+```
 
 ## Mini Project
 
